@@ -24,5 +24,5 @@ A simple and interactive **Tic Tac Toe** game built with **HTML**, **CSS**, and 
 
 1. **Clone the repository**
    ```bash
-   https://github.com/Hey-RAM/Tic_Tac_Toe-game
+   https://github.com/Hey-RAM/Tic_Tac_Toe-game.git
    cd tic-tac-toe
